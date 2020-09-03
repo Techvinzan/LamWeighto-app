@@ -1,0 +1,22 @@
+body {
+  margin-top: 70px;
+  background: #1169;
+  color: #fff;
+}
+
+.card-primary {
+  background: blue;
+  font-size: 5px;
+}
+
+.card-success {
+  background: green;
+  font-size: 5px;
+
+}
+
+.card-danger {
+  background: red;
+  font-size: 5px;
+
+}
